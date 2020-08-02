@@ -1,0 +1,2 @@
+# data-mining
+使用python的numpy库以及sklearn库进行的数据挖掘以及分析的项目，对美国华盛顿的共享单车使用量分析以及建模。
